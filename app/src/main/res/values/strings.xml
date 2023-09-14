@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hinhchunhat</string>
+    <string name="input_length_hint">Nhập chiều dài</string>
+    <string name="input_width_hint">Nhập chiều rộng</string>
+    <string name="input_length">Chiều dài</string>
+    <string name="input_width">Chiều rộng</string>
+    <string name="input_P">Chu Vi</string>
+    <string name="input_S">Diện Tích</string>
+    <string name="button_text">Tính</string>
+
+</resources>
